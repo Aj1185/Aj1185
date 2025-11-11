@@ -55,7 +55,7 @@ I thrive at the intersection of **AI, frontend innovation, and scalable cloud sy
 ### 🐍 My Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/Aj1185/Aj1185/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Aj1185/Aj1185/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ I debug faster with lo-fi beats and coffee ☕ + code = creativity ⚙️
 ---
 
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="Coding GIF" />
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webpf" width="400" alt="Cyber Dev Loop GIF" />
 </p>
 
 <p align="center">
