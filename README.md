@@ -10,7 +10,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Transforming+imagination+into+interaction+through+code" alt="Typing SVG" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### 💡 About Me  
 I’m a **Computer Science Engineering student** passionate about crafting intelligent, user-centric digital solutions.  
@@ -21,7 +22,8 @@ I thrive at the intersection of **AI, frontend innovation, and scalable cloud sy
 - 🌱 Goal: To fuse innovation with practicality — one project at a time  
 - 💬 Ask me about **frontend engineering**, **AI-driven UI**, or **cloud development**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### 🧰 Tech Stack  
 
@@ -29,7 +31,8 @@ I thrive at the intersection of **AI, frontend innovation, and scalable cloud sy
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,nodejs,html,css,figma,git,github,vercel,firebase,supabase,cpp,python,googlecloud,sql" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### 📊 GitHub Analytics  
 
@@ -42,7 +45,8 @@ I thrive at the intersection of **AI, frontend innovation, and scalable cloud sy
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aj1185&layout=compact&theme=radical" width="48%" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### 🌈 Contribution Graph  
 
@@ -50,7 +54,8 @@ I thrive at the intersection of **AI, frontend innovation, and scalable cloud sy
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aj1185&theme=react-dark&hide_border=true&area=true" alt="AJ's Contribution Graph" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### 🐍 My Contribution Snake  
 
@@ -58,7 +63,8 @@ I thrive at the intersection of **AI, frontend innovation, and scalable cloud sy
   <img src="https://github.com/Aj1185/Aj1185/blob/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ### 🌐 Connect With Me  
 
@@ -68,12 +74,8 @@ I thrive at the intersection of **AI, frontend innovation, and scalable cloud sy
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### ⚡ Fun Fact  
-I debug faster with lo-fi beats and coffee ☕ + code = creativity ⚙️  
-
----
 
 <p align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="300" alt="Coding GIF" />
